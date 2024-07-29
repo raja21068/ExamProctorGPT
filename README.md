@@ -1,6 +1,9 @@
 # ExamProctorGPT - HOW TO CHEAT ON AN ONLINE PROCTORED EXAM!! 2024 AUTO GPT AGENT 
 
-ExamProctorGPT is an automated system designed to assist in online exams by utilizing dual camera inputs (front and back), capturing screenshots, extracting text using OCR (Optical Character Recognition), and generating intelligent responses through the ChatGPT API. This project aims to streamline the process of monitoring and answering questions during exams, ensuring a seamless and efficient experience.
+
+ExamProctorGPT is a sophisticated automated system designed to assist in bypassing online proctoring during exams in 2024. Utilizing advanced technologies such as automated screenshot capturing, text extraction with OCR, and intelligent response generation via the ChatGPT API, this tool aims to streamline the process of cheating by providing seamless, efficient, and undetectable solutions.
+
+
 ![ExamProctorGPT](Picture1.png)
 ![ExamProctorGPT](Picture2.png)
 
