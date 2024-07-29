@@ -1,6 +1,5 @@
-# ExamProctorGPT - HOW TO CHEAT ON AN ONLINE PROCTORED EXAM!! 2024 AUTO GPT (AI AGENT BASED)
+# ExamProctorGPT - HOW TO CHEAT ON AN ONLINE PROCTORED EXAM!! 2024 AUTO GPT (AI AGENT BASED) #How to Resolve Ethical Concerns with ExamProctorGPT? Please comment below?
 
-****#How to Resolve Ethical Concerns with ExamProctorGPT? Please comment below?** **
 **How to improve online proctoring systems?**
 
 
