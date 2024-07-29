@@ -3,6 +3,7 @@
 ****#How to Resolve Ethical Concerns with ExamProctorGPT? Please comment below?** **
 **How to improve online proctoring systems?**
 
+
 ExamProctorGPT is a sophisticated automated system designed to assist in bypassing online proctoring during exams in 2024. Utilizing advanced technologies such as **automated screenshot capturing in the backgorund**, **text extraction with OCR**, and **intelligent response generation** via the ChatGPT API, this tool aims to streamline the process of cheating by providing seamless, efficient, and undetectable solutions.
 
 They Can offering help with any exam proctor for any subject (Biology, Chemistry, Math, English, Anatomy, Nursing, Computer Science & pretty much anything else !)
