@@ -40,8 +40,8 @@ This project automates the process of taking a screenshot, extracting text from 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/raja21068/screenshot-to-chatgpt.git
-   cd screenshot-to-chatgpt```
+   git clone https://github.com/raja21068/ExamProctorGPT.git
+   cd ExamProctorGPT```
    
    
 2. Install the required packages:
