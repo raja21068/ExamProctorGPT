@@ -8,7 +8,7 @@ ExamProctorGPT is a sophisticated automated system designed to assist in bypassi
 They Can offering help with any exam proctor for any subject (Biology, Chemistry, Math, English, Anatomy, Nursing, Computer Science & pretty much anything else !)
 or certifications (EC-Council, CompTIA, CISCO, CCNA , PMP, real estate exams, insurance exams, GRE, GMAT, TOEFL and many more..)
 
-
+Note: This code is for educational purposes only, aiming to raise awareness about the potential misuse of AI in online exams.
 ![ExamProctorGPT](Picture1.png)
 ![ExamProctorGPT](Picture2.png)
 
